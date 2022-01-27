@@ -1,0 +1,36 @@
+.Footer {
+  position: relative;
+  left: -24px;
+  bottom: 0;
+  width: calc(100% + 48px);
+  height: 114px;
+  padding: 0 24px;
+  background-color: var(--color-black);
+  display: flex;
+  align-items: center;
+}
+
+.reactLogo {
+  width: max-content;
+  height: 20px;
+
+  margin: 16px 5px 0 0;
+}
+
+.pwaLogo {
+  width: max-content;
+  height: 20px;
+
+  margin-top: 16px;
+}
+
+.Footer p {
+  color: white;
+}
+
+a:link,
+a:visited,
+a:active {
+  color: var(--color-yellow);
+  text-decoration: none;
+}

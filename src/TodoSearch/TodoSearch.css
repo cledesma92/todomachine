@@ -1,0 +1,29 @@
+.TodoSearch {
+  height: 64px;
+  width: calc(100% - 62px);
+  background: var(--color-black);
+  box-shadow: var(--color-shadow);
+  border: 0;
+  border-radius: 15px;
+  margin: 0 24px 24px 24px;
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-white);
+}
+
+.TodoSearch::placeholder {
+  font-family: "Rubik";
+  font-weight: 400;
+  color: var(--color-white);
+}
+
+.TodoSearch:focus {
+  outline-color: var(--color-blue);
+}
+
+.TodoSearchParagraph {
+  width: calc(100% - 62px);
+  margin: 24px;
+}
