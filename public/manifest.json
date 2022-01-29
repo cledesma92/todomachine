@@ -1,6 +1,6 @@
 {
   "short_name": "TODO machine",
-  "name": "React progresive web app",
+  "name": "React Progresive Web App",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "https://cledesma92.github.io/todomachine/",
+  "start_url": "/",
   "display": "fullscreen",
-  "theme_color": "#000000",
+  "theme_color": "#343353",
   "background_color": "#ffffff"
 }
