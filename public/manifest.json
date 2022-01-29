@@ -1,6 +1,6 @@
 {
   "short_name": "TODO machine",
-  "name": "React progresive web app",
+  "name": "React Progresive Web App",
   "icons": [
     {
       "src": "favicon.svg",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#f9f9ff",
   "background_color": "#ffffff"
 }
