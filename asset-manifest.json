@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todomachine/static/css/main.6af8fc6d.css",
-    "main.js": "/todomachine/static/js/main.ae9951a2.js",
-    "static/media/reactLogo.svg": "/todomachine/static/media/reactLogo.1d49df1c64e3d6e61dbc87d9f0dd5ffb.svg",
+    "main.js": "/todomachine/static/js/main.d8dbb44f.js",
+    "static/media/reactLogo.svg": "/todomachine/static/media/reactLogo.2c1cc61c71053ec23b29fd9d23c6693a.svg",
     "index.html": "/todomachine/index.html",
-    "static/media/pwaLogo.svg": "/todomachine/static/media/pwaLogo.e877a76cf47c1568c9e63a36ba9f38a6.svg",
+    "static/media/pwaLogo.svg": "/todomachine/static/media/pwaLogo.874bda982f93b3e4465e33e79ae219ea.svg",
     "main.6af8fc6d.css.map": "/todomachine/static/css/main.6af8fc6d.css.map",
-    "main.ae9951a2.js.map": "/todomachine/static/js/main.ae9951a2.js.map"
+    "main.d8dbb44f.js.map": "/todomachine/static/js/main.d8dbb44f.js.map"
   },
   "entrypoints": [
     "static/css/main.6af8fc6d.css",
-    "static/js/main.ae9951a2.js"
+    "static/js/main.d8dbb44f.js"
   ]
 }
